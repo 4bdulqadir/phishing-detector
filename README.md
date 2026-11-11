@@ -21,7 +21,7 @@ Then paste a URL when asked.
 
 ## Example
 
-![PhishDetect demo](screenshots/demo.png)
+![PhishDetect demo](demo.png)
 
 ## What I learned
 
